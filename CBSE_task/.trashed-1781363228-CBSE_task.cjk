@@ -1,0 +1,17 @@
+\def\CNSpreproc{cefconv (CJK ver. 4.8.5)}\documentclass{article}
+\usepackage{amsmath,amssymb}
+
+\begin{document}
+
+If vectors $\vec{a}$ and $\vec{b}$ are such that
+\[
+|\vec{a}|=\frac{1}{2}, \qquad
+|\vec{b}|=\frac{4}{\sqrt{3}}, \qquad
+|\vec{a}\times\vec{b}|=\frac{1}{\sqrt{3}},
+\]
+then find
+\[
+|\vec{a}\cdot\vec{b}|.
+l\]
+
+\end{document}

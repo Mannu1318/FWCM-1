@@ -1,0 +1,104 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\begin{document}
+\noindent
+\begin{minipage}[c]{0.25\textwidth}
+    \includegraphics[width=1\linewidth]{iiitb_logo.jpg}
+\end{minipage}
+\hfill
+\begin{minipage}[c]{0.35\textwidth}
+    \raggedleft
+    \textbf{Name:} Shaik Mansoor\\
+    \textbf{ID:} COMETFWC075\\
+    \textbf{Date:} \today
+\end{minipage}
+\vspace{0.2cm}
+\hrule
+\vspace{0.5cm}
+
+\begin{center}
+{\LARGE \textbf{Twenty-second International Olympiad,1981}}
+\end{center}
+
+\vspace{0.3cm}
+
+\noindent
+\text{1981/1.}
+$P$ is a point inside a given triangle $ABC$.
+$D,E,F$ are the feet of the perpendiculars from $P$
+to the lines $BC,CA,AB$ respectively.
+Find all $P$ for which
+
+$$
+\frac{BC}{PD}+\frac{CA}{PE}+\frac{AB}{PF}
+$$
+
+\noindent
+is least.
+
+\vspace{0.4cm}
+
+\noindent
+\text{1981/2.}
+Let $1 \le r \le n$ and consider all subsets of $r$
+elements of the set $\{1,2,\ldots,n\}$.
+Each of these subsets has a smallest member.
+Let $F(n,r)$ denote the arithmetic mean of these
+smallest numbers; prove that
+
+$$
+F(n,r)=\frac{n+1}{r+1}.
+$$
+
+\vspace{0.4cm}
+
+\noindent
+\text{1981/3.}
+Determine the maximum value of $m^3+n^3$, where $m$ and $n$ are integers satisfying $m,n\in\{1,2,\ldots,1981\}$ and $(n^2-mn-m^2)^2=1.$
+
+\vspace{0.1cm}
+
+\noindent
+\text{1981/4.}
+(a) For which values of $n>2$ is there a set of
+$n$ consecutive positive integers such that the
+largest number in the set is a divisor of the least
+common multiple of the remaining $n-1$ numbers?
+
+\vspace{0.1cm}
+
+\noindent
+(b) For which values of $n>2$ is there exactly one
+set having the stated property?
+
+\vspace{0.1cm}
+
+\noindent
+\text{1981/5.}
+Three congruent circles have a common point $O$
+and lie inside a given triangle.
+Each circle touches a pair of sides of the triangle.
+Prove that the incenter and the circumcenter of
+the triangle and the point $O$ are collinear.
+
+\vspace{0.1cm}
+
+\noindent
+\text{1981/6.}
+The function f(x,y) satisfy
+
+$(1)\; f(0,y)=y+1$
+
+$(2)\; f(x+1,0)=f(x,1)$
+
+$(3)\; f(x+1,y+1)=f(x,f(x+1,y))$
+
+
+
+\noindent
+for all non-negative integers $x,y$.Determine $f(4,1981)$.
+
+\end{document}
